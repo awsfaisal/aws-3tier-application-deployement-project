@@ -1,8 +1,8 @@
-# AWS 3-Tier Application Deployment Project
+# production-grade-3tier-aws-app
 
 ## 📌 Project Overview
 
-This project demonstrates the deployment of a **3-Tier Web Application Architecture on AWS** using best practices for scalability, security, and high availability.
+This project demonstrates the deployment of a **production-grade-3tier-aws-app** using best practices for scalability, security, and high availability.
 
 The architecture separates the application into three layers:
 
